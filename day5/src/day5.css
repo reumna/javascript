@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+h2 {
+  color: white;
+}
+
+.windowsize-small {
+  background-color: dodgerblue;
+}
+
+.windowsize-medium {
+  background-color: indigo;
+}
+
+.windowsize-large {
+  background-color: orange;
+}
