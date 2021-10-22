@@ -1,6 +1,6 @@
 const body = document.querySelector("body")
 
-let  windowSizeChecker = body.classList;
+const  windowSizeChecker = body.classList;
 
 
 
