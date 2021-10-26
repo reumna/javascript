@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/day8-9.css" />
+    <title>Vanilla Challenge</title>
+</head>
+<body>
+    <header>Random Number Game</header>
+    <form class="game__form">
+        <label class= "max__label">Generate a number between 0 and</label>
+        <input class="max__input" min=0 required type="number" />
+        <div class="label__divide"></div>
+        <label calss= choice__label>guess the number: </label>
+        <input class="choice__input" min=0 required type="number" /> 
+        <button>Play!</button>
+    </form>
+    <div class="game__text hidden">
+        <h2 class="game__playing"></h2>
+        <div></div>
+        <h2 class="game__result"></h2>
+    </div>
+    <script src="src/day8-9.js"></script>
+</body>
+</html>

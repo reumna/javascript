@@ -1,0 +1,25 @@
+header {
+  font-size: 35px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.max__label {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.label__divide {
+  display: flex;
+
+  height: 20px;
+}
+
+.game__result {
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.hidden {
+  display: none;
+}
