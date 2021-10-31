@@ -6,7 +6,7 @@ const quotes = [
         quote:"Change before you have to.",
         author: "Jack Welch",
     },{
-        quote:"If you cna dream it, you can do it.",
+        quote:"If you can dream it, you can do it.",
         author: "Walt disney",
     },{
         quote:"Love the life you live. Live the life you love",
